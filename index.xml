@@ -1,8 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TG电报频道群组导航|TGDH - Telegram频道群组导航</title><link>https://tgdh.github.io/</link><description>Recent content on TG电报频道群组导航|TGDH - Telegram频道群组导航</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Tue, 28 Jul 2020 19:27:08 +0800</lastBuildDate><atom:link href="https://tgdh.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>关于网站</title><link>https://tgdh.github.io/about/</link><pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate><guid>https://tgdh.github.io/about/</guid><description>&lt;h4 id="这是-hugo-版-webstack-主题">这是 Hugo 版 WebStack 主题&lt;/h4>
-&lt;p>本项目是基于&lt;strong>纯静态&lt;/strong>的网址导航网站 &lt;a href="https://github.com/WebStackPage/WebStackPage.github.io">webstack.cc&lt;/a> 制作的 &lt;a href="https://gohugo.io/">Hugo&lt;/a> 主题，其中部分代码参考了以下几个开源项目：&lt;br/>&lt;br/>&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/liutongxu/liutongxu.github.io">https://github.com/liutongxu/liutongxu.github.io&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/iplaycode/webstack-hugo">https://github.com/iplaycode/webstack-hugo&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;br/>
-&lt;p>主题安装后，将 exampleSite 目录下的文件复制到 hugo 站点根目录，根据需要把 config.toml 的一些信息改成自己的，导航的网址信息可通过 data 目录下 webstack.yml 修改。&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TG电报频道群组导航|TGDH - Telegram频道群组导航</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on TG电报频道群组导航|TGDH - Telegram频道群组导航</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 28 Jul 2020 19:27:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于网站</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h4 id=&#34;这是-hugo-版-webstack-主题&#34;&gt;这是 Hugo 版 WebStack 主题&lt;/h4&gt;&#xA;&lt;p&gt;本项目是基于&lt;strong&gt;纯静态&lt;/strong&gt;的网址导航网站 &lt;a href=&#34;https://github.com/WebStackPage/WebStackPage.github.io&#34;&gt;webstack.cc&lt;/a&gt; 制作的 &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; 主题，其中部分代码参考了以下几个开源项目：&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/liutongxu/liutongxu.github.io&#34;&gt;https://github.com/liutongxu/liutongxu.github.io&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/iplaycode/webstack-hugo&#34;&gt;https://github.com/iplaycode/webstack-hugo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;br/&gt;&#xA;&lt;p&gt;主题安装后，将 exampleSite 目录下的文件复制到 hugo 站点根目录，根据需要把 config.toml 的一些信息改成自己的，导航的网址信息可通过 data 目录下 webstack.yml 修改。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
