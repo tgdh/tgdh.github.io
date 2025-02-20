@@ -1,11 +1,3 @@
 - item: 首页
   icon: fa fa-home
   link: "./"
-
-- item: 推广合作
-  icon: fa fa-envelope
-  link: mailto:sobot1024@gmail.com
-
-- item: Telegram
-  icon: fas fa-robot
-  link: https://t.me/tghzsx_bot

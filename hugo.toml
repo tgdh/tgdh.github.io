@@ -1,6 +1,6 @@
-baseURL               = "https://tgdh.github.io/"
+baseURL               = "https://telegrampron.github.io/"
 languageCode          = "zh-CN"
-title                 = "电报群组频道导航tgdh - Telegram频道群组导航"
+title                 = "TG电报频道群组导航 - Telegram频道群组导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -45,4 +45,4 @@ publishDir            = "public"				# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，合作联系：<a href="mailto:sobot1024@gmail.com">sobot1024@gmail.com</a>或[@TG双向机器人](https://t.me/tghzsx_bot)<br/>&copy; 2023 - {year} By [Telegram](https://www.tgbaike.com) <br/>'
+    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容'
